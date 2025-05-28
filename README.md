@@ -1,2 +1,0 @@
-# samuca
-projeto
