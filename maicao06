@@ -512,6 +512,33 @@ a:hover{
     </div>
     <footer class="container py-5">
         <h2>Entre em contato</h2>
+Add commentMore actions
+body {
+    font-family: 'Chakra Petch', sans-serif;
+    color: var(--cor-principal);
+}
+
+h1, h2, h5 {
+    color: var(--cor-secundaria);
+    font-weight: 700;
+}
+
+.lead, .btn-link {
+    color: var(--cor-destaque);
+    font-weight: 700;
+}
+
+a, .btn-link:hover {
+footer a {
+    color: var(--cor-principal)
+}
+
+a:hover{
+footer a:hover {
+    color: var(--cor-destaque);Add commentMore actions
+}
+
+}
         <div>
             <i class="bi bi-github"></i>
             <a href="https://github.com/femascheti">GitHub</a>
